@@ -1,0 +1,2 @@
+# servidorminecraft
+minecraft
